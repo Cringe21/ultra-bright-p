@@ -1,0 +1,33 @@
+{
+  "name": "ultra-bright",
+  "displayName": "ULTRA BRIGHT+",
+  "description": "THE BEST LIGHT THEME OUT THERE",
+  "version": "0.0.1",
+  "publisher": "Cringe21",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cringe21/ultra-bright-p"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Theme",
+    "Light",
+    "Light high contrast",
+    "bright",
+    "Bright theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ULTRA BRIGHT+",
+        "uiTheme": "vs",
+        "path": "./themes/ULTRA BRIGHT+-color-theme.json"
+      }
+    ]
+  }
+}
